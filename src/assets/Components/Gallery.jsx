@@ -85,7 +85,7 @@ const Gallery = () => {
                 className="delete-btn" 
                 onClick={() => removeTour(id)}
               >
-                not interested
+                Not Interested
               </button>
             </div>
           </article>
