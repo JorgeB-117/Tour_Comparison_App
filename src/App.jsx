@@ -1,7 +1,7 @@
 // Task 1: App.jsx (Root Component)
 
 import { useState } from 'react'
-import Gallery from './Gallery.jsx'
+import Gallery from './assets/Components/Gallery.jsx'
 import './App.css'
 
 function App() {
