@@ -52,7 +52,7 @@ const Gallery = () => {
   if (tours.length === 0) {
     return (
       <div className="refresh-container">
-        <h2>no tours left</h2>
+        <h2>Oh No! No Tours Left</h2>
         <button className="btn" onClick={fetchTours}>
           refresh
         </button>
